@@ -1,2 +1,2 @@
 # VisTA
-Visual analytical tool for analyzing think-aloud sessions
+A visual analytical tool for analyzing think-aloud sessions. Coming soon.
