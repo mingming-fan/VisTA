@@ -1,0 +1,52 @@
+.filter-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between
+}
+.level-group > span {
+    padding-right: 10px;
+}
+
+.level-group > div {
+    padding-left: 12px;
+}
+
+.search-group > span {
+    padding-right: 10px;
+}
+
+.search-group > .ant-input-search {
+    margin-left: 12px;
+}
+
+.filter-container > div {
+    padding-bottom: 6px;
+}
+
+.master-group > span {
+    margin-right: 10px;
+}
+
+.filter-category {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.filter-sub-category {
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.advance-group > div {
+    padding-left: 12px;
+}
+
+.advance-group > div > div {
+    padding-left: 12px;
+}
+
+.filter-left {
+    width: 100%
+}
+

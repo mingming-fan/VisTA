@@ -1,0 +1,34 @@
+.feature-container {
+    display: flex;
+    width: 440px;
+    flex-wrap: wrap;
+}
+
+.slider-control {
+    width: 400px;
+}
+
+.legend-container {
+    width: 130px;
+    padding-left: 20px;
+}
+
+.repetition-container {
+    padding-bottom: 9px;
+}
+
+.negation-container {
+    padding-bottom: 9px;
+}
+
+.sentiment-container {
+    padding-bottom: 9px;
+}
+
+.category-container {
+    padding-bottom: 9px;
+}
+
+.ant-tag {
+    margin-right: 2px
+}
