@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /ming-project-server/node_modules
+/src/static
 
 # testing
 /coverage
