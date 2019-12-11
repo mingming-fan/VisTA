@@ -2,8 +2,22 @@
 VisTA: Integrating Machine Intelligence with Visualization to Support the Investigation of Think-Aloud Sessions
 This work has been presented at IEEE VIS 2019 (InfoVis)
 
-Reference:
-Mingming Fan, Ke Wu, Jian Zhao, Yue Li, Winter Wei, and Khai N. Truong. "VisTA: Integrating Machine Intelligence with Visualization to Support the Investigation of Think-Aloud Sessions." IEEE transactions on visualization and computer graphics (2019). 
+##Reference
+
+Mingming Fan, Ke Wu, Jian Zhao, Yue Li, Winter Wei, and Khai N. Truong. "VisTA: Integrating Machine Intelligence with Visualization to Support the Investigation of Think-Aloud Sessions," In IEEE Transactions on Visualization and Computer Graphics, vol. 26, no. 1, pp. 343-352, Jan. 2020. doi: 10.1109/TVCG.2019.2934797
+
+@ARTICLE{8807301,
+author={M. {Fan} and K. {Wu} and J. {Zhao} and Y. {Li} and W. {Wei} and K. N. {Truong}},
+journal={IEEE Transactions on Visualization and Computer Graphics},
+title={VisTA: Integrating Machine Intelligence with Visualization to Support the Investigation of Think-Aloud Sessions},
+year={2020},
+volume={26},
+number={1},
+pages={343-352},
+keywords={Usability;Visual analytics;Tools;Machine intelligence;Feature extraction;Machine learning;Think-aloud;visual analytics;machine intelligence;user study;usability problems;session review behavior;UX practices},
+doi={10.1109/TVCG.2019.2934797},
+ISSN={2160-9306},
+month={Jan},}
 
 
 ## Setup
