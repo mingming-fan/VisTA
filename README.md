@@ -1,5 +1,10 @@
 ## Overview
-VisTA
+VisTA: Integrating Machine Intelligence with Visualization to Support the Investigation of Think-Aloud Sessions
+This work has been presented at IEEE VIS 2019 (InfoVis)
+
+Reference:
+Mingming Fan, Ke Wu, Jian Zhao, Yue Li, Winter Wei, and Khai N. Truong. "VisTA: Integrating Machine Intelligence with Visualization to Support the Investigation of Think-Aloud Sessions." IEEE transactions on visualization and computer graphics (2019). 
+
 
 ## Setup
 * This tool currently require ``Nodejs``, to install please visit https://nodejs.org/en/, LTS version is prefered.  
