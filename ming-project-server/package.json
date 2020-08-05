@@ -11,7 +11,7 @@
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
-    "express-fileupload": "^1.1.3-alpha.1",
+    "express-fileupload": "^1.1.9",
     "webserver": "^3.2.1"
   }
 }
